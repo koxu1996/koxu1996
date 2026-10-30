@@ -8,6 +8,7 @@
 ### Blockchain
 
 - [linea-block-verifier](https://github.com/koxu1996/linea-block-verifier) – Verifies Linea v4 block headers/hashes against consensus (developed at [Malda](https://github.com/malda-protocol/linea-block-verifier))
+- [casper-event-toolkit](https://github.com/koxu1996/casper-event-toolkit) – Rust library for fetching and parsing contract-level events that follow the Casper Event Standard
 
 ### Research
 
