@@ -8,6 +8,10 @@
 
 - [Spyydr](https://github.com/koxu1996/spyydr) – Rust home-coding task for Payy
 
+### System configuration
+
+- [nixos-config](https://github.com/koxu1996/nixos-config) – My NixOS configuration (nixPC, nixAir)
+
 ## Private projects
 
 - [Bite](https://github.com/koxu1996/bite) – Calories tracking app for iOS
