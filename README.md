@@ -8,6 +8,7 @@
 ### Research
 
 - [risc0-mpt-collapse](https://github.com/koxu1996/risc0-mpt-collapse) – Ethereum MPT collapse cases tested against RISC Zero's trie and cross-checked with alloy-trie
+- [linea-block-verifier](https://github.com/koxu1996/linea-block-verifier) – Verifies Linea v4 block headers/hashes against consensus (developed at [Malda](https://github.com/malda-protocol/linea-block-verifier))
 
 ### Interview tasks
 
