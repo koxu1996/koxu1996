@@ -10,6 +10,10 @@
 - [linea-block-verifier](https://github.com/koxu1996/linea-block-verifier) – Verifies Linea v4 block headers/hashes against consensus (developed at [Malda](https://github.com/malda-protocol/linea-block-verifier))
 - [casper-event-toolkit](https://github.com/koxu1996/casper-event-toolkit) – Rust library for fetching and parsing contract-level events that follow the Casper Event Standard
 
+### Tools
+
+- [binary-bench-spy](https://github.com/koxu1996/binary-bench-spy) – Benchmark every run of a binary: rename it and put the spy in its place
+
 ### Research
 
 - [risc0-mpt-collapse](https://github.com/koxu1996/risc0-mpt-collapse) – Ethereum MPT collapse cases tested against RISC Zero's trie and cross-checked with alloy-trie
