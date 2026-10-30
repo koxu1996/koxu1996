@@ -7,3 +7,4 @@
 ## Private projects
 
 - [Bite](https://github.com/koxu1996/bite) – Calories tracking app for iOS
+- [Clutch](https://github.com/koxu1996/clutch) – Wayland AI assistant
