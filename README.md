@@ -20,6 +20,7 @@
 
 ### Home-coding tasks
 
+- [flyyy](https://github.com/koxu1996/flyyy) – Fly.io work sample (Networking Engineer): a Corrosion-backed load balancer that grew into a small cloud – control plane, edges, microVM workers over a WireGuard mesh. Built by autonomous AI agents running the full test suite, with ~12 h of my own time; found and patched a Corrosion sync bug ([superfly/corrosion#596](https://github.com/superfly/corrosion/issues/596))
 - [Spyydr](https://github.com/koxu1996/spyydr) – Rust home-coding task for Payy
 - [navymill](https://github.com/koxu1996/navymill) – Rust home-coding task for SoftwareMill (accepted)
 
